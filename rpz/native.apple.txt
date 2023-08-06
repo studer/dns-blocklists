@@ -1,0 +1,44 @@
+$TTL 30
+@ SOA rpz.hagezi.native.apple. hostmaster.hagezi.native.apple. 1687418820 86400 3600 604800 30
+ NS localhost.
+;
+; Title: HaGeZi's Apple Tracker DNS Blocklist
+; Description: Blocks Apple native broadband tracker that track your activity.
+; Homepage: https://github.com/hagezi/dns-blocklists
+; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Expires: 7 days
+; Last modified: 22 Jun 2023 07:27 UTC
+; Version: 2023.0622.0727.35
+; Syntax: RPZ
+; Number of entries: 30
+;
+api-adservices.apple.com CNAME .
+*.api-adservices.apple.com CNAME .
+books-analytics-events.apple.com CNAME .
+*.books-analytics-events.apple.com CNAME .
+iadsdk.apple.com CNAME .
+*.iadsdk.apple.com CNAME .
+metrics.apple.com CNAME .
+*.metrics.apple.com CNAME .
+notes-analytics-events.apple.com CNAME .
+*.notes-analytics-events.apple.com CNAME .
+securemetrics.apple.com CNAME .
+*.securemetrics.apple.com CNAME .
+securemvt.apple.com CNAME .
+*.securemvt.apple.com CNAME .
+stocks-analytics-events.apple.com CNAME .
+*.stocks-analytics-events.apple.com CNAME .
+supportmetrics.apple.com CNAME .
+*.supportmetrics.apple.com CNAME .
+weather-analytics-events.apple.com CNAME .
+*.weather-analytics-events.apple.com CNAME .
+acfeedbackws.icloud.com CNAME .
+*.acfeedbackws.icloud.com CNAME .
+feedbackws.icloud.com CNAME .
+*.feedbackws.icloud.com CNAME .
+metrics.icloud.com CNAME .
+*.metrics.icloud.com CNAME .
+dzc-metrics.mzstatic.com CNAME .
+*.dzc-metrics.mzstatic.com CNAME .
+metrics.mzstatic.com CNAME .
+*.metrics.mzstatic.com CNAME .
