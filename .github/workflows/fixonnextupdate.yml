@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Thanks for your support, domain(s) has been added to the allowlist and will be removed in the next update.
+          comment: Thanks for your support, domain(s) has been added to the allowlist and will be removed in the next update. The update takes place at least every 24 hours. Updated list versions are usually available from 04:00 UTC at the latest.
