@@ -34,16 +34,16 @@
 *An all in one DNS blocklist in **various versions (light, normal, pro, pro++ and ultimate)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](sources.md). No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas.*
 
 #### ***Multi blocklist version and size overview:***
-| Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
-|:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 566348<br>82217     | |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 863500<br>264776     | |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1034452<br>363007         | |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1153207<br>385588 | | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1522735<br>469478 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| Version | Domains<br>Compressed | Type | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
+|:--------|---:|:---|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
+| [Light](#light)             | 567628<br>84292     | Balanced | |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 870466<br>266925     | Balanced | |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1040588<br>364610         | Balanced+ | |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 1143779<br>388846 | Aggressive | | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1525919<br>480226 | Aggressive+ | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
-*:green_circle: = contains the list named in the column caption*       
-*:yellow_square: = partially contains the list named in the column caption*       
+:green_circle: contains the list named in the column caption       
+:yellow_square: partially contains the list named in the column caption       
               
 ---
          
@@ -51,7 +51,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *566348 domains/hosts - 82217 compressed domains*                    
+**Entries:** *567628 domains/hosts - 84292 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -68,7 +68,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *863500 domains/hosts - 264776 compressed domains*                   
+**Entries:** *870466 domains/hosts - 266925 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -85,7 +85,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1034452 domains/hosts - 363007 compressed domains*                   
+**Entries:** *1040588 domains/hosts - 364610 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -104,7 +104,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1153207 domains/hosts - 385588 compressed domains*               
+**Entries:** *1143779 domains/hosts - 388846 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -123,7 +123,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1522735 domains/hosts - 469478 compressed domains*               
+**Entries:** *1525919 domains/hosts - 480226 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -143,7 +143,13 @@
 ### ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
-**Entries:** *15887 compressed domains*           
+|             | Light          | Normal         | Pro            | Pro++          | Ultimate       |
+|:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| Included in | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *16251 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -161,7 +167,13 @@
 ### ***Threat Intelligence Feeds - Increases security significantly!*** <a name="tif"></a>
 *An blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
-**Entries:** *972748 domains/hosts - 554030 compressed domains*           
+|             | Light           | Normal          | Pro             | Pro++           | Ultimate        |
+|:-----------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| Included in | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: |
+
+:green_circle: yes :yellow_square: partially :x: no
+              		
+**Entries:** *1207851 domains/hosts - 704274 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -186,7 +198,13 @@
 
 #### ***Complete Edition - Encrypted DNS Servers, VPN, TOR, Proxies*** <a name="bypass_all"></a>
        
-**Entries:** *2391 compressed domains*           
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *2383 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -201,7 +219,13 @@
 
 #### ***Encrypted DNS Servers only*** <a name="bypass_dns"></a>
        
-**Entries:** *861 domains/hosts - 735 compressed domains*           
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *853 domains/hosts - 727 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -221,6 +245,12 @@
 ### ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!*** <a name="safesearch"></a>
 *An blocklist for blocking search engines that do not support safesearch.*         
         
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
 **Entries:** *214 compressed domains*                     
             
 | Format | Links | Can be used for |
@@ -239,7 +269,13 @@
 ### ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!*** <a name="dyndns"></a>
 *An blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
         
-**Entries:** *1519 compressed domains*                     
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *1517 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -257,7 +293,13 @@
 ### ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
 *An blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
                       
-**Entries:** *2018 compressed domains*                     
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *2017 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -275,6 +317,12 @@
 ### ***Most Abused TLDs - Protects against known malicious Top Level Domains!*** <a name="tlds"></a>
 *An blocklist for blocking Top Most Abused Top Level Domains, merged from @Yokoffing, @DandelionSprout and SpamHaus.*         
             
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
 | AdGuard | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds.txt) | AdGuard, AdGuard Home |
@@ -289,7 +337,13 @@
 ### ***Anti Piracy - Protects against piracy!*** <a name="piracy"></a>
 *Blocks websites and services that are mainly used for illegal distribution of copyrighted content.*         
         
-**Entries:** *6668 compressed domains*                     
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *6891 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -307,7 +361,13 @@
 ### ***Gambling - Protects against gambling content!*** <a name="gambling"></a>
 *Blocks gambling content.*         
         
-**Entries:** *170648 compressed domains*                     
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *170637 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -325,7 +385,13 @@
 ### ***Personal - My manually maintained denylist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *48179 compressed domains*                    
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :green_circle:   | :green_circle:    | :green_circle: | :green_circle:   | :green_circle:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *48638 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -343,6 +409,12 @@
 ### ***Native Tracker - Broadband tracker of devices, services and operating systems*** <a name="native"></a>
 *Blocks native broadband tracker from devices, services and operating systems that track your activity.*         
                          
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :yellow_square:   | :yellow_square:    | :yellow_square: | :yellow_square:  | :green_circle:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
 | Device/Service | Domains | Hosts | Adblock | Unbound | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ |
 |:-------|:--------:|:------:|:--------:|:--------:|:--------:|:---------:|:--------:|:--------:|
 | Amazon (Devices, Shopping, Video) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.amazon.txt) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/native.amazon.blacklist.conf) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.amazon.txt) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon.txt) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon-onlydomains.txt) | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.amazon.txt) |
@@ -436,9 +508,18 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 *They are updated and maintained daily.*
 
 *No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas.*                   
-            
-*[Cover Your Tracks](https://coveryourtracks.eff.org/): "Our tests indicate that you have strong protection against Web tracking."*
-                  
+     
+*The results of a test against the 10000 [whotracks.me](https://whotracks.me/websites.html) pages. All pages were opened and fully loaded via batch in Edge with privacy features turned off. Cookies were all accepted. NextDNS was used as the DNS.*
+
+| **List**     | Total queries | Blocked queries | % blocked | % gap to light |
+|-------------:|--------------:|----------------:|----------:|---------------:|
+| **Ultimate** | 299646        | 131093          | 43.75     | 12.85          |
+| **Pro++**    | 299646        | 119681          | 39.94     | 9.05           |
+| **Pro**      | 299646        | 97508           | 32.54     | 1.65           |
+| **Normal**   | 299646        | 93258           | 31.12     | 0.23           |
+| **Light**    | 299646        | 92576           | 30.90     |                |
+| **----**     | 299646        | 67888           | 22.66     | -8.24          |
+                 
 *Test them, give [feedback](https://github.com/hagezi/dns-blocklists/discussions) and [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*
 
 #### Contact <a name="contact"></a>

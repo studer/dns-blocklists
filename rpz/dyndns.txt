@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1691270400 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1691364240 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Aug 2023 21:20 UTC
-; Version: 2023.0805.2120.51
+; Last modified: 06 Aug 2023 23:24 UTC
+; Version: 2023.0806.2324.31
 ; Syntax: RPZ
-; Number of entries: 3038
+; Number of entries: 3034
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -24,8 +24,6 @@ fedea.com.ar CNAME .
 *.fedea.com.ar CNAME .
 img.com.ar CNAME .
 *.img.com.ar CNAME .
-dns.army CNAME .
-*.dns.army CNAME .
 notici.as CNAME .
 *.notici.as CNAME .
 cloudns.asia CNAME .
@@ -1122,8 +1120,6 @@ mynetgear.com CNAME .
 *.mynetgear.com CNAME .
 myonlineportal.com CNAME .
 *.myonlineportal.com CNAME .
-myq-see.com CNAME .
-*.myq-see.com CNAME .
 mysaol.com CNAME .
 *.mysaol.com CNAME .
 mysecondarydns.com CNAME .

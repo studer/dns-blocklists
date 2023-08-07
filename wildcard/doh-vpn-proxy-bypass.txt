@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Aug 2023 21:18 UTC
-# Version: 2023.0805.2118.51
+# Last modified: 06 Aug 2023 23:21 UTC
+# Version: 2023.0806.2321.49
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2391
+# Number of entries: 2383
 #
 *.0000a-fast-proxy.de
 *.ns.00dani.me
@@ -463,7 +463,6 @@
 *.unblock-proxy.com.de
 *.webproxy.com.de
 *.brightvpn.comacevpn.com
-*.dns.comeonjames.club
 *.commons.host
 *.easy-vpn.comodo.com
 *.comss.one
@@ -611,7 +610,6 @@
 *.downloadvpnfree.com
 *.dreamvpn.us
 *.droidvpn.com
-*.doh.dscloud.me
 *.duapps.com
 *.duba.net
 *.aattwwss.duckdns.org
@@ -619,9 +617,6 @@
 *.jurre-home.duckdns.org
 *.krtekvpn.duckdns.org
 *.osefcorp.duckdns.org
-*.punono.duckdns.org
-*.tuandns.duckdns.org
-*.tungdnsne.duckdns.org
 *.dukun.de
 *.dutchproxy.nl
 *.dns.dutchwhite.nl
@@ -1215,7 +1210,6 @@
 *.mybestvpn.info
 *.mycelium.site
 *.freedom.mydns.network
-*.dgca.myds.me
 *.myip.io
 *.myip-proxy.info
 *.myiphide.com
@@ -1769,7 +1763,6 @@
 *.serverhoya.com
 *.serverssh.net
 *.setupvpn.com
-*.pates.services.sfr.fr.casepp.sfr.fr
 *.shadeyouvpn.com
 *.shadowsocks.org
 *.shadowsurf.com
@@ -1934,7 +1927,6 @@
 *.swoshsvpn.com
 *.dns.syaifullah.com
 *.ibksturm.synology.me
-*.ihctw.synology.me
 *.a-bld.sys-adm.in
 *.bld.sys-adm.in
 *.doh.syshero.org

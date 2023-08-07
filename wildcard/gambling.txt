@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Aug 2023 21:27 UTC
-# Version: 2023.0804.2127.58
+# Last modified: 06 Aug 2023 23:28 UTC
+# Version: 2023.0806.2328.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 170648
+# Number of entries: 170637
 #
 *.0-bet.com
 *.000000.com
@@ -20545,7 +20545,6 @@
 *.2121vns.com
 *.21220.vip
 *.21221.org
-*.21221.win
 *.212214.com
 *.21222n.com
 *.21223.org
@@ -25006,7 +25005,6 @@
 *.2434v.com
 *.243511.com
 *.24353.pro
-*.243540.com
 *.2435586.net
 *.24357.biz
 *.2435ky.com
@@ -25214,7 +25212,6 @@
 *.2467t.com
 *.2467x.com
 *.24683.vip
-*.24683.win
 *.246855.com
 *.24686.org
 *.2468ky.com
@@ -36314,7 +36311,6 @@
 *.3596p.com
 *.3596s.com
 *.3596t.com
-*.3597-pd.win
 *.35974.org
 *.35975.cn
 *.35975.wang
@@ -39156,7 +39152,6 @@
 *.3826x.com
 *.3827164.tube
 *.3827170.tube
-*.3827171.gold
 *.3827175.tube
 *.3827176.tube
 *.3827183.gold
@@ -47000,17 +46995,14 @@
 *.4858a.com
 *.4858cc.com
 *.4858m.com
-*.4858mmm.com
 *.4858ppp.com
 *.4858qqq.com
 *.4858r.com
-*.4858rrr.com
 *.4858s.com
 *.4858sss.com
 *.4858u.com
 *.4858v.com
 *.4858w.com
-*.4858z.com
 *.4859001.com
 *.4859002.com
 *.4859003.com
@@ -54453,7 +54445,6 @@
 *.57576163.com
 *.shanhe.57577.live
 *.57578076.com
-*.5757mgm.com
 *.5757t.com
 *.5757vn.com
 *.5757vns.com
@@ -80289,7 +80280,6 @@
 *.830yb.com
 *.831.ee
 *.83100su.com
-*.831094.com
 *.8311155.com
 *.83111n.com
 *.8311237.com
@@ -118318,7 +118308,6 @@
 *.g0309.com
 *.g034034.com
 *.g03641.com
-*.g1081.com
 *.g123club.com
 *.g123hot.com
 *.g123vi.com

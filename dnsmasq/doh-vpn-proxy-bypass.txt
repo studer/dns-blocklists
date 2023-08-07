@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Aug 2023 21:18 UTC
-# Version: 2023.0805.2118.51
+# Last modified: 06 Aug 2023 23:21 UTC
+# Version: 2023.0806.2321.49
 # Syntax: DNSMasq
-# Number of entries: 2391
+# Number of entries: 2383
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -463,7 +463,6 @@ address=/surfshark.com.au/#
 address=/unblock-proxy.com.de/#
 address=/webproxy.com.de/#
 address=/brightvpn.comacevpn.com/#
-address=/dns.comeonjames.club/#
 address=/commons.host/#
 address=/easy-vpn.comodo.com/#
 address=/comss.one/#
@@ -611,7 +610,6 @@ address=/doublehop.me/#
 address=/downloadvpnfree.com/#
 address=/dreamvpn.us/#
 address=/droidvpn.com/#
-address=/doh.dscloud.me/#
 address=/duapps.com/#
 address=/duba.net/#
 address=/aattwwss.duckdns.org/#
@@ -619,9 +617,6 @@ address=/home27.duckdns.org/#
 address=/jurre-home.duckdns.org/#
 address=/krtekvpn.duckdns.org/#
 address=/osefcorp.duckdns.org/#
-address=/punono.duckdns.org/#
-address=/tuandns.duckdns.org/#
-address=/tungdnsne.duckdns.org/#
 address=/dukun.de/#
 address=/dutchproxy.nl/#
 address=/dns.dutchwhite.nl/#
@@ -1215,7 +1210,6 @@ address=/my-proxy.com/#
 address=/mybestvpn.info/#
 address=/mycelium.site/#
 address=/freedom.mydns.network/#
-address=/dgca.myds.me/#
 address=/myip.io/#
 address=/myip-proxy.info/#
 address=/myiphide.com/#
@@ -1769,7 +1763,6 @@ address=/dns.sellan.fr/#
 address=/serverhoya.com/#
 address=/serverssh.net/#
 address=/setupvpn.com/#
-address=/pates.services.sfr.fr.casepp.sfr.fr/#
 address=/shadeyouvpn.com/#
 address=/shadowsocks.org/#
 address=/shadowsurf.com/#
@@ -1934,7 +1927,6 @@ address=/swordvpn.com/#
 address=/swoshsvpn.com/#
 address=/dns.syaifullah.com/#
 address=/ibksturm.synology.me/#
-address=/ihctw.synology.me/#
 address=/a-bld.sys-adm.in/#
 address=/bld.sys-adm.in/#
 address=/doh.syshero.org/#

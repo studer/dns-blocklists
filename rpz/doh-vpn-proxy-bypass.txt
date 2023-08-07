@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1691270280 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1691364060 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Aug 2023 21:18 UTC
-; Version: 2023.0805.2118.51
+; Last modified: 06 Aug 2023 23:21 UTC
+; Version: 2023.0806.2321.49
 ; Syntax: RPZ
-; Number of entries: 4782
+; Number of entries: 4766
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -253,8 +253,6 @@ proxysite.cloud CNAME .
 *.proxysite.cloud CNAME .
 wyx.cloud CNAME .
 *.wyx.cloud CNAME .
-dns.comeonjames.club CNAME .
-*.dns.comeonjames.club CNAME .
 adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
 ps1.modr.club CNAME .
@@ -2615,8 +2613,6 @@ rayneau.fr CNAME .
 *.rayneau.fr CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
-pates.services.sfr.fr.casepp.sfr.fr CNAME .
-*.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 vpnmag.fr CNAME .
 *.vpnmag.fr CNAME .
 wez.fr CNAME .
@@ -3195,8 +3191,6 @@ dnslow.me CNAME .
 *.dnslow.me CNAME .
 doublehop.me CNAME .
 *.doublehop.me CNAME .
-doh.dscloud.me CNAME .
-*.doh.dscloud.me CNAME .
 encrypt.me CNAME .
 *.encrypt.me CNAME .
 faceless.me CNAME .
@@ -3235,8 +3229,6 @@ letshide.me CNAME .
 *.letshide.me CNAME .
 ltlxvxjjmvhn.me CNAME .
 *.ltlxvxjjmvhn.me CNAME .
-dgca.myds.me CNAME .
-*.dgca.myds.me CNAME .
 vpn-api.proton.me CNAME .
 *.vpn-api.proton.me CNAME .
 proximize.me CNAME .
@@ -3263,8 +3255,6 @@ stopcensoring.me CNAME .
 *.stopcensoring.me CNAME .
 ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
-ihctw.synology.me CNAME .
-*.ihctw.synology.me CNAME .
 timetohide.me CNAME .
 *.timetohide.me CNAME .
 tubeunblock.me CNAME .
@@ -4059,12 +4049,6 @@ krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
-punono.duckdns.org CNAME .
-*.punono.duckdns.org CNAME .
-tuandns.duckdns.org CNAME .
-*.tuandns.duckdns.org CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
 arashi.eu.org CNAME .

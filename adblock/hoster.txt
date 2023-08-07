@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 04 Aug 2023 21:25 UTC
-! Version: 2023.0804.2125.49
+! Last modified: 06 Aug 2023 23:25 UTC
+! Version: 2023.0806.2325.49
 ! Syntax: AdBlock
-! Number of entries: 2018
+! Number of entries: 2017
 !
 ||000a.de^
 ||000space.com^
@@ -1461,7 +1461,6 @@
 ||pclandes.fr^
 ||pcriot.com^
 ||pe.gp^
-||pe.hu^
 ||perfektionieren.de^
 ||perl.sh^
 ||persianblog.ir^

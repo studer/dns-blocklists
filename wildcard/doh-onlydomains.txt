@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 31 Jul 2023 21:44 UTC
-# Version: 2023.0731.2144.17
+# Last modified: 06 Aug 2023 23:23 UTC
+# Version: 2023.0806.2323.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 735
+# Number of entries: 727
 #
 ns.00dani.me
 dns.0ooo.icu
@@ -178,7 +178,6 @@ adguard.gbrossi.com.br
 dns.joaofidelix.com.br
 dns.opnsource.com.au
 dns.weixin.qq.com.cn
-dns.comeonjames.club
 commons.host
 comss.one
 comss.ru
@@ -271,15 +270,11 @@ doh.pub
 doh.sb
 dot.pub
 ns1.dotls.org
-doh.dscloud.me
 aattwwss.duckdns.org
 home27.duckdns.org
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
 osefcorp.duckdns.org
-punono.duckdns.org
-tuandns.duckdns.org
-tungdnsne.duckdns.org
 dukun.de
 dns.dutchwhite.nl
 dns.dyn1.de
@@ -471,7 +466,6 @@ dns.hafidzradhival.my.id
 id.terra.my.id
 dns.vmath.my.id
 freedom.mydns.network
-dgca.myds.me
 blackhole.myon.lu
 vm.mytm.cc
 area51.mywire.org
@@ -633,7 +627,6 @@ doh.seby.io
 doh-2.seby.io
 dot.seby.io
 dns.sellan.fr
-pates.services.sfr.fr.casepp.sfr.fr
 shalenkov.dev
 dns.shecan.ir
 free.shecan.ir
@@ -666,7 +659,6 @@ dns.surfshark.com
 switch.ch
 dns.syaifullah.com
 ibksturm.synology.me
-ihctw.synology.me
 a-bld.sys-adm.in
 bld.sys-adm.in
 doh.syshero.org

@@ -4262,3 +4262,6 @@ unsubscribe.convertkit.com
 # Referral
 aylink.co
 
+# https://github.com/hagezi/dns-blocklists/issues/1388
+tracking.rosettastone.com
+
