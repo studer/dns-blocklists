@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Thanks, domain(s) has been added to the denylist and will be added in the next update.
+          comment: Thanks for your support, domain(s) has been added to the denylist and will be added in the next update.
