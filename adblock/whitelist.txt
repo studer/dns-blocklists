@@ -3782,10 +3782,6 @@
 ! Food tracker
 @@|track.talabat.com^
 
-! https://github.com/hagezi/dns-blocklists/issues/1015
-@@|ghostery-metrics-713401778.us-east-1.elb.amazonaws.com^
-@@|d.ghostery.com^
-
 ! Video playback on Hotstar (Website only?)
 @@|hesads.akamaized.net^
 
@@ -4648,4 +4644,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/1388
 @@|tracking.rosettastone.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1392
+@@|papago.naver.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/1393
+@@|getipcountry.zoe.net^
 
