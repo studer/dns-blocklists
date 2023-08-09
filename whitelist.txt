@@ -4267,3 +4267,9 @@ papago.naver.net
 # https://github.com/hagezi/dns-blocklists/issues/1393
 getipcountry.zoe.net
 
+# like Linkfire for musicians
+feature.fm
+
+# https://github.com/hagezi/dns-blocklists/issues/1395
+img.itop.qq.com
+

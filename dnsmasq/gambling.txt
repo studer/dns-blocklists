@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Aug 2023 22:31 UTC
-# Version: 2023.0807.2231.13
+# Last modified: 08 Aug 2023 22:29 UTC
+# Version: 2023.0808.2229.11
 # Syntax: DNSMasq
-# Number of entries: 170624
+# Number of entries: 170632
 #
 address=/0-bet.com/#
 address=/000000.com/#
@@ -109281,6 +109281,7 @@ address=/casinofreebonuses.info/#
 address=/casinogambler.net/#
 address=/casinogambling4free.com/#
 address=/casinogamblingfun.com/#
+address=/casinogamblingstrategy.org/#
 address=/casinogamerelease.com/#
 address=/casinogames.nz/#
 address=/casinogamings.com/#
@@ -118671,6 +118672,7 @@ address=/gambleleva.xyz/#
 address=/gambleonline.org/#
 address=/gamblepicks.com/#
 address=/gamblerplanet.com/#
+address=/gamblersclubonline.com/#
 address=/gamblersuniverse.com/#
 address=/gamblersworld.com/#
 address=/gamblerszoo.com/#
@@ -125519,6 +125521,7 @@ address=/incarpokerv.net/#
 address=/income88.com/#
 address=/indexbetting.net/#
 address=/indiacasinoclub.org/#
+address=/indiacasinoinfo.com/#
 address=/indiadafa.com/#
 address=/indiasoup.com/#
 address=/indm88.com/#
@@ -144259,6 +144262,7 @@ address=/phgtxprh.com/#
 address=/phh84.net/#
 address=/phhdream.com/#
 address=/phi88.com/#
+address=/philippinesonlinecasino.com/#
 address=/phjdream.com/#
 address=/phjk5.com/#
 address=/phjywsa8.xyz/#
@@ -144975,6 +144979,7 @@ address=/platinumcasinoonline.net/#
 address=/platinumplaycasino.com/#
 address=/play-casino.live/#
 address=/play-grandcasino.online/#
+address=/play-poker-game.com/#
 address=/play10pinas.live/#
 address=/play123slot.com/#
 address=/play188bet.com/#
@@ -145054,6 +145059,7 @@ address=/playnow.com/#
 address=/playojo.com/#
 address=/playolg.ca/#
 address=/playonlinecasinoforrealmoneyusa.com/#
+address=/playonlinecasinogames.net/#
 address=/playonlinegamez.com/#
 address=/playonlinepokercasino.com/#
 address=/playpelican.bet/#
@@ -150279,6 +150285,7 @@ address=/sl18588.com/#
 address=/sl6618.com/#
 address=/sl888.live/#
 address=/sla19.com/#
+address=/slacocasino.com/#
 address=/slashsun.xyz/#
 address=/slb-babadi.com/#
 address=/slbet.com/#
@@ -150706,6 +150713,7 @@ address=/souga789.com/#
 address=/soulauv.asia/#
 address=/soupress.xyz/#
 address=/southafricacasinos.net/#
+address=/southafricancasinosites.com/#
 address=/southernmostwagers.com/#
 address=/southpointcasino.com/#
 address=/sov67.com/#

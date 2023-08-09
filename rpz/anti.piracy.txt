@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1691364420 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1691533620 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 06 Aug 2023 23:27 UTC
-; Version: 2023.0806.2327.07
+; Last modified: 08 Aug 2023 22:27 UTC
+; Version: 2023.0808.2227.34
 ; Syntax: RPZ
-; Number of entries: 13782
+; Number of entries: 13780
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -9166,8 +9166,6 @@ videozed.net CNAME .
 *.videozed.net CNAME .
 vidnext.net CNAME .
 *.vidnext.net CNAME .
-vidoza.net CNAME .
-*.vidoza.net CNAME .
 vidspot.net CNAME .
 *.vidspot.net CNAME .
 vikv.net CNAME .

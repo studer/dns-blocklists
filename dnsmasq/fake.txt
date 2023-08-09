@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2023 22:39 UTC
-# Version: 2023.0807.2239.05
+# Last modified: 08 Aug 2023 22:37 UTC
+# Version: 2023.0808.2237.04
 # Syntax: DNSMasq
-# Number of entries: 16111
+# Number of entries: 16106
 #
 address=/009972.com/#
 address=/100-solarni-lampa-cz.com/#
@@ -3323,6 +3323,7 @@ address=/daisysavingcart.com/#
 address=/dakano.de/#
 address=/dakineskis.com/#
 address=/dakkengroup.pro/#
+address=/dakmag.com/#
 address=/dalmatinac.de/#
 address=/dalypal.com/#
 address=/dalzu.com/#
@@ -4940,7 +4941,6 @@ address=/fendast.com/#
 address=/fendiz.com/#
 address=/fengdic.com/#
 address=/fenriskleinpoechlarn.at/#
-address=/fensh.online/#
 address=/fenshasi.shop/#
 address=/ferfi-patika.com/#
 address=/ferienhaus-gertrud.at/#
@@ -5654,6 +5654,7 @@ address=/generositym.com/#
 address=/genes-mining.com/#
 address=/genevacapitalgroup.com/#
 address=/genialoff.com/#
+address=/genievine.com/#
 address=/geniusfxmaket.com/#
 address=/geniusstuff.co/#
 address=/genshinimpact-store.com/#
@@ -5672,7 +5673,6 @@ address=/gerhard-tremmel.de/#
 address=/gerland-handel.com/#
 address=/german-apotheke.cc/#
 address=/german-apotheke.de/#
-address=/geryh.online/#
 address=/gesoftop.com/#
 address=/gestioneuropecapital.com/#
 address=/gestuzclothing.com/#
@@ -7502,13 +7502,10 @@ address=/keepeoff.shop/#
 address=/keeprake.com/#
 address=/keesocial.com/#
 address=/keir-hartlandassoc.com/#
-address=/keithretail.shop/#
 address=/keithshoes.shop/#
-address=/keithsiretail.shop/#
 address=/keksa.de/#
 address=/kelergroup.com/#
 address=/kellerwirtschaft.at/#
-address=/kellycain.shop/#
 address=/kelsen-fnac.com/#
 address=/keltygear.com/#
 address=/keltysale.com/#
@@ -7930,7 +7927,6 @@ address=/lastore.net/#
 address=/lasueaer.shop/#
 address=/lasuite-depotvente.fr/#
 address=/lasuperhousse.com/#
-address=/latasy.com/#
 address=/latelitajewels.com/#
 address=/laterence.top/#
 address=/latest-luxury.com/#
@@ -9265,7 +9261,8 @@ address=/www.pinjamnow.my.id/#
 address=/yoli.my.id/#
 address=/my-family.bike/#
 address=/my-pills.biz/#
-address=/uschse04.my03.com/#
+address=/store.uschse04.my03.com/#
+address=/www.uschse04.my03.com/#
 address=/mybell-refund.me/#
 address=/mybestautologin567.com/#
 address=/mybitcointrade.com/#
@@ -10208,7 +10205,6 @@ address=/online-apotheke-24.net/#
 address=/online-bathrooms.com/#
 address=/online-gold-shop.de/#
 address=/online-mode-1.de/#
-address=/online-ph.com/#
 address=/online-pharmacy365.com/#
 address=/online-pills.com/#
 address=/onlineadid.com/#
@@ -11298,7 +11294,6 @@ address=/qsadf.shop/#
 address=/qshinebright.com/#
 address=/qtabs.site/#
 address=/qttlpn.shop/#
-address=/qualitydogfood.store/#
 address=/qualityhometool.com/#
 address=/qualitypillsdistributor.com/#
 address=/qualityplaything.com/#
@@ -11423,7 +11418,6 @@ address=/radteamtrikots.com/#
 address=/radyo-muzik.com/#
 address=/raealed.club/#
 address=/raefy.com/#
-address=/rafde.shop/#
 address=/ragazzdevj.shop/#
 address=/raidntrail.com/#
 address=/raiffeisenmining.com/#
@@ -12753,6 +12747,7 @@ address=/skims.at/#
 address=/skims.cz/#
 address=/skincheap.com/#
 address=/skinora.net/#
+address=/store.skinszone.net/#
 address=/skipoc.de/#
 address=/skipped.vip/#
 address=/skishead.com/#
@@ -12986,7 +12981,6 @@ address=/spagetlink.com/#
 address=/spaire.us/#
 address=/spar-allianz.de/#
 address=/spar-markt.de/#
-address=/sparkauf24.com/#
 address=/sparkprofit.com/#
 address=/sparprime.com/#
 address=/spartan-trade.com/#
@@ -13794,6 +13788,7 @@ address=/tes-ib.cloud/#
 address=/tes-ic.cloud/#
 address=/tesauree.com/#
 address=/tesento.com/#
+address=/store.tesla-openai.com/#
 address=/teslabestfor.com/#
 address=/teslabounce.com/#
 address=/teslabrc.com/#

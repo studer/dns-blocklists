@@ -3,16 +3,19 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Jul 2023 07:09 UTC
-# Version: 2023.0730.0709.07
+# Last modified: 08 Aug 2023 22:23 UTC
+# Version: 2023.0808.2223.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 214
+# Number of entries: 264
 #
 search.0xcb.dev
 search.0xgingi.com
 searx.32bitflo.at
 search.activemail.de
 haku.ahmia.fi
+search.ahwx.org
+search.albony.xyz
+alltheinternet.com
 search.anonymize.com
 stalk.antelope.day
 recherche.aol.fr
@@ -20,11 +23,15 @@ search.aol.ca
 search.aol.com
 suche.aol.de
 search.azkware.net
+librex.baczek.me
 searx.baczek.me
+baidu.com
 baresearch.org
 searx.bbaovanc.com
+lx.benike.monster
 search.biboumail.fr
 searx.bissisoft.com
+librex.bloatcat.tk
 search.bluelock.org
 boomle.com
 search.bowlman.org
@@ -37,6 +44,7 @@ search.citw.lgbt
 search.aol.co.uk
 websearch.excite.co.jp
 searx.com.au
+librex.yogeshlamichhane.com.np
 copp.gg
 search.cronobox.one
 searx.cthd.icu
@@ -44,17 +52,25 @@ searx.daetalytica.io
 darmarit.org
 darmarit.orgsearx
 suche.dasnetzundich.de
+whoogle.datura.network
+search.davidovski.xyz
+whoogle.dcs0.hu
 searx.decatec.de
+search.decentrala.org
 searx.deepak.pro
 search.demoniak.ch
+librex.devol.it
 searxng.diadz.de
 search.disroot.org
 searx.divided-by-zero.eu
 dogpile.com
 search.dojoro.de
 searx.doofpot.nl
+search.dr460nf1r3.org
 searx.dresden.network
+wgl.frail.duckdns.org
 dynabyte.ca
+s.dyox.in
 spot.ecloud.global
 ecosia.org
 searx.ericaftereric.top
@@ -69,6 +85,9 @@ searx.fmac.xyz
 searx.foo.li
 searx.forked.io
 searx.fossencdi.org
+whoogle.ftw.lol
+search.funami.tech
+search.garudalinux.org
 search.gcomm.ch
 gibiru.com
 gigablast.com
@@ -77,13 +96,16 @@ searx.gotrust.de
 gruble.de
 hmsearx.h0meserver.com
 searx.hardwired.link
+whoogle.hostux.net
 seeks.hsbp.org
+whoogle.hxvy0.gq
 search.im-in.space
 jabber-germany.desearx
 search.jigsaw-security.com
 search.jpope.org
 jsearch.pw
 searx.juancord.xyz
+kagi.com
 search.kiwitalk.de
 search.kokomo.cloud
 trovu.komun.org
@@ -94,13 +116,16 @@ haku.lelux.fi
 searx.lelux.fi
 search.leptons.xyz
 search.lgbtq.cool
+librex.me
 search.lightinthedark.space
 searx.lnode.net
 searx.louifox.house
 lukol.com
+whoogle.lunar.icu
 search.lvkaszus.pl
 searx.lwhr.xyz
 searx.lynnesbian.space
+search.madreyk.xyz
 go.mail.ru
 searx.mastodontech.de
 searx.maxxblow.de
@@ -112,12 +137,15 @@ metager3.de
 metasearch.nl
 searx.mha.fi
 mijisou.com
+millionshort.com
 search.modalogi.com
 mojeek.com
 searx.monicz.pl
 spot.murena.io
+mwmbl.org
 searx.mxchange.org
 myprivatesrx.us
+librex.myroware.eu
 searx.nakhan.net
 searx.namejeff.xyz
 search.nebulacentre.net
@@ -130,8 +158,11 @@ searx.nightmare.life
 nigma.eu
 searx.nixnet.services
 searxng.no-logs.com
+whoogle.no-logs.com
+librex.nohost.network
 timdor.noip.me
 northboot.xyz
+search.notrustverify.ch
 null.media
 searx.oakleycord.dev
 offtheradar.info
@@ -146,25 +177,33 @@ opnxng.com
 oscobo.com
 searx.ouahpiti.info
 searx.ox2.fr
+search.pabloferreiro.es
 paulgo.io
 peekier.com
 perfectpixel.de
+presearch.com
 priv.au
+whoogle.privacydev.net
 search.privacytools.io
 search.in.projectsegfau.lt
 search.projectsegfau.lt
 search.us.projectsegfau.lt
 searx.prvcy.eu
+librex.pufe.org
 searx.pwoss.org
 lite.qwant.com
 search.rabbit-company.com
 nova.rambler.ru
 searx.rasp.fr
+librex.ratakor.com
+whoogle-search--replitcomreside.repl.co
+librex.retro-hax.net
 search.rhscz.eu
 searx.roflcopter.fr
 wtf.roflcopter.fr
 roteserver.de
 search.rowie.at
+search.rubberverse.xyz
 search.sapti.me
 searchencrypt.com
 searchx.mobi
@@ -186,6 +225,7 @@ searxng.se
 searxs.eu
 search.seds.nl
 searx.semipvt.com
+search.sethforprivacy.com
 searx.sev.monster
 search.shininglea.dev
 searx.simonoener.com
@@ -193,6 +233,7 @@ skyn3t.in
 search.smnz.de
 searx.solusar.de
 searx.sp-codes.de
+search.spaceint.fr
 search.spaeth.me
 search.st8.at
 startpage.com
@@ -200,18 +241,25 @@ search.stinpriza.org
 suchfeuer.de
 searx.sulu.me
 searx.sunless.cloud
+swisscows.com
 searx.thefloatinglab.world
 searx.thegreenwebfoundation.org
 searx.tiekoetter.com
+search.tildevarsh.in
+s.tokhmi.xyz
 search.trom.tf
 suche.tromdienste.de
 s.trung.fun
 searx.tuxcloud.net
 suche.uferwerk.org
+lx.vern.cc
+wg.vern.cc
 searx.vitanetworks.link
+gowogle.voring.me
 webcrawler.com
 searx.wegeeks.win
 search.whateveritworks.org
+wiby.me
 search.xcloud.live
 searxng.xcxc.eu
 xo.wtf
@@ -221,4 +269,6 @@ yippy.com
 you.com
 searx.zapashcanon.fr
 searx.zdechov.net
+search.zeroish.xyz
+librex.zzls.xyz
 search.zzls.xyz

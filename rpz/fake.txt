@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1691447940 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1691534220 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Aug 2023 22:39 UTC
-; Version: 2023.0807.2239.05
+; Last modified: 08 Aug 2023 22:37 UTC
+; Version: 2023.0808.2237.04
 ; Syntax: RPZ
-; Number of entries: 32222
+; Number of entries: 32212
 ;
 anchain.ai CNAME .
 *.anchain.ai CNAME .
@@ -6010,6 +6010,8 @@ daisysavingcart.com CNAME .
 *.daisysavingcart.com CNAME .
 dakineskis.com CNAME .
 *.dakineskis.com CNAME .
+dakmag.com CNAME .
+*.dakmag.com CNAME .
 dalypal.com CNAME .
 *.dalypal.com CNAME .
 dalzu.com CNAME .
@@ -8594,6 +8596,8 @@ genevacapitalgroup.com CNAME .
 *.genevacapitalgroup.com CNAME .
 genialoff.com CNAME .
 *.genialoff.com CNAME .
+genievine.com CNAME .
+*.genievine.com CNAME .
 geniusfxmaket.com CNAME .
 *.geniusfxmaket.com CNAME .
 genshinimpact-store.com CNAME .
@@ -11096,8 +11100,6 @@ lasportivasuomi.com CNAME .
 *.lasportivasuomi.com CNAME .
 lasuperhousse.com CNAME .
 *.lasuperhousse.com CNAME .
-latasy.com CNAME .
-*.latasy.com CNAME .
 latelitajewels.com CNAME .
 *.latelitajewels.com CNAME .
 latest-luxury.com CNAME .
@@ -12576,8 +12578,10 @@ mxmtrade.com CNAME .
 *.mxmtrade.com CNAME .
 mxsania.com CNAME .
 *.mxsania.com CNAME .
-uschse04.my03.com CNAME .
-*.uschse04.my03.com CNAME .
+store.uschse04.my03.com CNAME .
+*.store.uschse04.my03.com CNAME .
+www.uschse04.my03.com CNAME .
+*.www.uschse04.my03.com CNAME .
 mybestautologin567.com CNAME .
 *.mybestautologin567.com CNAME .
 mybitcointrade.com CNAME .
@@ -13826,8 +13830,6 @@ onitsukatigerschweiz.com CNAME .
 *.onitsukatigerschweiz.com CNAME .
 online-bathrooms.com CNAME .
 *.online-bathrooms.com CNAME .
-online-ph.com CNAME .
-*.online-ph.com CNAME .
 online-pharmacy365.com CNAME .
 *.online-pharmacy365.com CNAME .
 online-pills.com CNAME .
@@ -17262,8 +17264,6 @@ spacetoolsus.com CNAME .
 *.spacetoolsus.com CNAME .
 spagetlink.com CNAME .
 *.spagetlink.com CNAME .
-sparkauf24.com CNAME .
-*.sparkauf24.com CNAME .
 sparkprofit.com CNAME .
 *.sparkprofit.com CNAME .
 sparprime.com CNAME .
@@ -18304,6 +18304,8 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
 *.tesento.com CNAME .
+store.tesla-openai.com CNAME .
+*.store.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -27744,6 +27746,8 @@ shophardware.net CNAME .
 *.shophardware.net CNAME .
 skinora.net CNAME .
 *.skinora.net CNAME .
+store.skinszone.net CNAME .
+*.store.skinszone.net CNAME .
 smarters-pro.net CNAME .
 *.smarters-pro.net CNAME .
 solarplanet24.net CNAME .
@@ -27982,16 +27986,12 @@ faultor.online CNAME .
 *.faultor.online CNAME .
 featheror.online CNAME .
 *.featheror.online CNAME .
-fensh.online CNAME .
-*.fensh.online CNAME .
 franceshopping.online CNAME .
 *.franceshopping.online CNAME .
 gamingplaza.online CNAME .
 *.gamingplaza.online CNAME .
 garni.online CNAME .
 *.garni.online CNAME .
-geryh.online CNAME .
-*.geryh.online CNAME .
 givings.online CNAME .
 *.givings.online CNAME .
 global-trading.online CNAME .
@@ -29514,14 +29514,8 @@ kbattian.shop CNAME .
 *.kbattian.shop CNAME .
 keepeoff.shop CNAME .
 *.keepeoff.shop CNAME .
-keithretail.shop CNAME .
-*.keithretail.shop CNAME .
 keithshoes.shop CNAME .
 *.keithshoes.shop CNAME .
-keithsiretail.shop CNAME .
-*.keithsiretail.shop CNAME .
-kellycain.shop CNAME .
-*.kellycain.shop CNAME .
 kewal.shop CNAME .
 *.kewal.shop CNAME .
 kfxgw.shop CNAME .
@@ -29920,8 +29914,6 @@ qvcdeal-mall.shop CNAME .
 *.qvcdeal-mall.shop CNAME .
 radenar.shop CNAME .
 *.radenar.shop CNAME .
-rafde.shop CNAME .
-*.rafde.shop CNAME .
 ragazzdevj.shop CNAME .
 *.ragazzdevj.shop CNAME .
 rbarrowdenpc.shop CNAME .
@@ -31160,8 +31152,6 @@ iqsmart.profmaster.store CNAME .
 *.iqsmart.profmaster.store CNAME .
 qcatowe.store CNAME .
 *.qcatowe.store CNAME .
-qualitydogfood.store CNAME .
-*.qualitydogfood.store CNAME .
 quarterinasmuc.store CNAME .
 *.quarterinasmuc.store CNAME .
 renasport.store CNAME .

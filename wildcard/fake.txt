@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2023 22:39 UTC
-# Version: 2023.0807.2239.05
+# Last modified: 08 Aug 2023 22:37 UTC
+# Version: 2023.0808.2237.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16111
+# Number of entries: 16106
 #
 *.009972.com
 *.100-solarni-lampa-cz.com
@@ -3323,6 +3323,7 @@
 *.dakano.de
 *.dakineskis.com
 *.dakkengroup.pro
+*.dakmag.com
 *.dalmatinac.de
 *.dalypal.com
 *.dalzu.com
@@ -4940,7 +4941,6 @@
 *.fendiz.com
 *.fengdic.com
 *.fenriskleinpoechlarn.at
-*.fensh.online
 *.fenshasi.shop
 *.ferfi-patika.com
 *.ferienhaus-gertrud.at
@@ -5654,6 +5654,7 @@
 *.genes-mining.com
 *.genevacapitalgroup.com
 *.genialoff.com
+*.genievine.com
 *.geniusfxmaket.com
 *.geniusstuff.co
 *.genshinimpact-store.com
@@ -5672,7 +5673,6 @@
 *.gerland-handel.com
 *.german-apotheke.cc
 *.german-apotheke.de
-*.geryh.online
 *.gesoftop.com
 *.gestioneuropecapital.com
 *.gestuzclothing.com
@@ -7502,13 +7502,10 @@
 *.keeprake.com
 *.keesocial.com
 *.keir-hartlandassoc.com
-*.keithretail.shop
 *.keithshoes.shop
-*.keithsiretail.shop
 *.keksa.de
 *.kelergroup.com
 *.kellerwirtschaft.at
-*.kellycain.shop
 *.kelsen-fnac.com
 *.keltygear.com
 *.keltysale.com
@@ -7930,7 +7927,6 @@
 *.lasueaer.shop
 *.lasuite-depotvente.fr
 *.lasuperhousse.com
-*.latasy.com
 *.latelitajewels.com
 *.laterence.top
 *.latest-luxury.com
@@ -9265,7 +9261,8 @@
 *.yoli.my.id
 *.my-family.bike
 *.my-pills.biz
-*.uschse04.my03.com
+*.store.uschse04.my03.com
+*.www.uschse04.my03.com
 *.mybell-refund.me
 *.mybestautologin567.com
 *.mybitcointrade.com
@@ -10208,7 +10205,6 @@
 *.online-bathrooms.com
 *.online-gold-shop.de
 *.online-mode-1.de
-*.online-ph.com
 *.online-pharmacy365.com
 *.online-pills.com
 *.onlineadid.com
@@ -11298,7 +11294,6 @@
 *.qshinebright.com
 *.qtabs.site
 *.qttlpn.shop
-*.qualitydogfood.store
 *.qualityhometool.com
 *.qualitypillsdistributor.com
 *.qualityplaything.com
@@ -11423,7 +11418,6 @@
 *.radyo-muzik.com
 *.raealed.club
 *.raefy.com
-*.rafde.shop
 *.ragazzdevj.shop
 *.raidntrail.com
 *.raiffeisenmining.com
@@ -12753,6 +12747,7 @@
 *.skims.cz
 *.skincheap.com
 *.skinora.net
+*.store.skinszone.net
 *.skipoc.de
 *.skipped.vip
 *.skishead.com
@@ -12986,7 +12981,6 @@
 *.spaire.us
 *.spar-allianz.de
 *.spar-markt.de
-*.sparkauf24.com
 *.sparkprofit.com
 *.sparprime.com
 *.spartan-trade.com
@@ -13794,6 +13788,7 @@
 *.tes-ic.cloud
 *.tesauree.com
 *.tesento.com
+*.store.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslabrc.com

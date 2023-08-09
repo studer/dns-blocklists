@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Aug 2023 22:31 UTC
-# Version: 2023.0807.2231.13
+# Last modified: 08 Aug 2023 22:29 UTC
+# Version: 2023.0808.2229.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 170624
+# Number of entries: 170632
 #
 0-bet.com
 000000.com
@@ -109281,6 +109281,7 @@ casinofreebonuses.info
 casinogambler.net
 casinogambling4free.com
 casinogamblingfun.com
+casinogamblingstrategy.org
 casinogamerelease.com
 casinogames.nz
 casinogamings.com
@@ -118671,6 +118672,7 @@ gambleleva.xyz
 gambleonline.org
 gamblepicks.com
 gamblerplanet.com
+gamblersclubonline.com
 gamblersuniverse.com
 gamblersworld.com
 gamblerszoo.com
@@ -125519,6 +125521,7 @@ incarpokerv.net
 income88.com
 indexbetting.net
 indiacasinoclub.org
+indiacasinoinfo.com
 indiadafa.com
 indiasoup.com
 indm88.com
@@ -144259,6 +144262,7 @@ phgtxprh.com
 phh84.net
 phhdream.com
 phi88.com
+philippinesonlinecasino.com
 phjdream.com
 phjk5.com
 phjywsa8.xyz
@@ -144975,6 +144979,7 @@ platinumcasinoonline.net
 platinumplaycasino.com
 play-casino.live
 play-grandcasino.online
+play-poker-game.com
 play10pinas.live
 play123slot.com
 play188bet.com
@@ -145054,6 +145059,7 @@ playnow.com
 playojo.com
 playolg.ca
 playonlinecasinoforrealmoneyusa.com
+playonlinecasinogames.net
 playonlinegamez.com
 playonlinepokercasino.com
 playpelican.bet
@@ -150279,6 +150285,7 @@ sl18588.com
 sl6618.com
 sl888.live
 sla19.com
+slacocasino.com
 slashsun.xyz
 slb-babadi.com
 slbet.com
@@ -150706,6 +150713,7 @@ souga789.com
 soulauv.asia
 soupress.xyz
 southafricacasinos.net
+southafricancasinosites.com
 southernmostwagers.com
 southpointcasino.com
 sov67.com

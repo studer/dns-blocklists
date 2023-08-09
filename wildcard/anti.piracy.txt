@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Aug 2023 23:27 UTC
-# Version: 2023.0806.2327.07
+# Last modified: 08 Aug 2023 22:27 UTC
+# Version: 2023.0808.2227.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6891
+# Number of entries: 6890
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -6384,7 +6384,6 @@
 *.vidlox.me
 *.movie.vidmate.mobi
 *.vidnext.net
-*.vidoza.net
 *.vidoza.org
 *.vidspot.net
 *.vidsrc.me
