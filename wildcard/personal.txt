@@ -48959,3 +48959,5 @@
 *.zzpxw.cn
 *.zzrjdp.xyz
 *.zzxmcp.com
+*.pnsys.info
+*.drto.info
