@@ -4273,3 +4273,6 @@ feature.fm
 # https://github.com/hagezi/dns-blocklists/issues/1395
 img.itop.qq.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1399
+4wank.com
+

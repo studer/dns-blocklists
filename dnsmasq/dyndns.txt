@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Aug 2023 22:28 UTC
-# Version: 2023.0807.2228.10
+# Last modified: 09 Aug 2023 22:28 UTC
+# Version: 2023.0809.2228.51
 # Syntax: DNSMasq
-# Number of entries: 1518
+# Number of entries: 1517
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -1004,7 +1004,6 @@ address=/mypicture.info/#
 address=/mypop3.net/#
 address=/mypop3.org/#
 address=/mypsx.net/#
-address=/myq-see.com/#
 address=/mysaol.com/#
 address=/mysecondarydns.com/#
 address=/mysecuritycamera.com/#
